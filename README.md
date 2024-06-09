@@ -13,3 +13,4 @@ Mata Kuliah : Analisa Kebutuhan Sistem
 ----------------------------------------
 
 ## PPT :
+[PPT soal ke-1](https://github.com/Mverdy22A2/analisa-sistem-pertemuan-11/blob/913c21a154fa660f94636a93c7c949662eee9f44/presentasi%20use%20case%201.pptx)
