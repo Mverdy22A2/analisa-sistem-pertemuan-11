@@ -21,3 +21,7 @@ Mata Kuliah : Analisa Kebutuhan Sistem
 
 ## deskripsi use case:
 [deskripsi use case ke-1](https://github.com/Mverdy22A2/analisa-sistem-pertemuan-11/blob/0f3cbf1c758a15fc3657b62789c8bc112018b476/deskripsi%20use%20case%201.pdf)
+
+
+[deskripsi use case 1.pdf](https://github.com/user-attachments/files/15753657/deskripsi.use.case.1.pdf)
+
